@@ -1,0 +1,69 @@
+.navbar-default{
+    background-color: #ffffff;
+    border-color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 15px!important;
+    box-shadow: -3px -3px 7px #e6e6e6, 3px 3px 5px rgba(94, 104, 121, 0.945);
+}
+a.active {
+    color: red !important;
+    text-decoration: underline !important;
+}
+a{
+    color: black !important;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+}
+h2{
+  
+    font-style: italic;
+  font-size:45px;
+    font-weight: bold;
+}
+span{
+    color: red;
+}
+.home{
+    background-color:#59ab44 !important;
+    font-size: x-large !important;
+    font-weight: bold !important;
+    color:red !important;
+    
+}
+.home .aboutus{
+    color: black;
+    text-align: justify;
+
+}
+.nav li{
+    
+}
+.navbar-brand{
+    color:rgb(13, 131, 13) !important;
+}
+/*.my_home{
+    background-image: url(./logo.png);
+}*/
+
+.cardmycard {
+	text-align: center;
+    background-color:#59ab44;
+    
+	margin-bottom: 30px;
+	padding: 8px;
+	box-shadow: 0 0 20px #c1c1c1;
+}
+.cardmycard :hover{
+    opacity: 0.6 !important;
+    
+  }
+.jumbotron{
+    background-color:rgb(13, 131, 13);
+}
